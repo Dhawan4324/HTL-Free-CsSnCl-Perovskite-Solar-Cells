@@ -18,7 +18,7 @@ This repository contains the materials associated with the manuscript:
 
 ## 📂 Contents
 
-* `Solar-Efficiency-ML.ipynb` — Jupyter notebook for data processing, model training, and evaluation
+* `CsSnCl3_ML_HistGrad.ipynb` — Jupyter notebook for data processing, model training, and evaluation
 * `dataset.csv` — Dataset used for model training and validation (if applicable)
 
 ---
